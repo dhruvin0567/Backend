@@ -1,0 +1,74 @@
+{
+  "services": {
+    "shopify": [
+      "Custom Themes",
+      "Store Setup",
+      "CRO Optimization",
+      "App Integration",
+      "Shopify Plus",
+      "B2B setups",
+      "Headless Shopify",
+      "Speed Optimization"
+    ],
+    "wordpress": [
+      "WooCommerce Stores",
+      "Elementor Sites",
+      "Blog Design",
+      "Performance Boosting",
+      "Malware Removal",
+      "API Integrations"
+    ],
+    "hiringModels": [
+      "Shopify Developers",
+      "WordPress Developers",
+      "Full Stack Developers",
+      "Part-time",
+      "Full-time",
+      "Project-Based",
+      "Monthly Contracts",
+      "White-label Teams"
+    ],
+    "other": [
+      "Webflow",
+      "Wix",
+      "ShiftShop",
+      "Hosting Setup",
+      "Maintenance & Support"
+    ]
+  },
+  "portfolio": [
+    {
+      "name": "FashionKart",
+      "platform": "Shopify",
+      "details": [
+        "Migrated from WooCommerce to Shopify",
+        "Improved mobile speed by 43%",
+        "Multi-currency support"
+      ]
+    },
+    {
+      "name": "NovaBrands",
+      "platform": "WordPress",
+      "details": [
+        "Ongoing WordPress maintenance",
+        "Redesigned 50+ blog pages",
+        "Built with Elementor"
+      ]
+    },
+    {
+      "name": "ShiftApp",
+      "platform": "Webflow",
+      "details": [
+        "Built using Webflow for SaaS application",
+        "Implemented custom animations"
+      ]
+    }
+  ],
+  "brands": ["EcoTex", "Glowify", "Urban Monk", "Zento Labs"],
+  "extras": {
+    "story": "/our-story",
+    "projects": "/our-projects",
+    "testimonials": "/client-testimonial",
+    "contact": "/contact-us"
+  }
+}
